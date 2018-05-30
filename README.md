@@ -14,6 +14,10 @@ $ vim config.json \
   ^ edit the configuration file with algorithm, pool URL, wallet address, etc. \
 $ xmrig-nvidia.sh --config config.json 
 
+### Disclaimer
+
+Xmrig collects a developer fee. The fee is displayed on startup. The value of the fee can be set at command line or in the configuration file using the "donate-level" parameter.
+
 ### Support us
 
 We appreciate your support:
